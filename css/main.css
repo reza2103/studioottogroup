@@ -72,6 +72,17 @@ p {
 
 }
 
+
+.login {
+    
+    font-size: 17px;
+  line-height: 22px;
+  color: #ffffff;
+  font-weight: 400;
+    
+ }   
+
+
 /*------------------Utilities---------------------*/
 a {
   color: inherit;
