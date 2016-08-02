@@ -20,7 +20,7 @@ p, .lead {
 }
 
 h1 {
-  font-size: 55px;
+  font-size: 44px;
   line-height: 55px;
   letter-spacing: -1px;
   color: #ffffff;
@@ -614,7 +614,7 @@ footer {
 @media (max-width: 480px) { 
 
 .btn-lg {
-  font-size: 12.5px;
+  font-size: 8.5px;
   line-height: 1.33;
   padding: 16px 13px;
   letter-spacing: 0px;
