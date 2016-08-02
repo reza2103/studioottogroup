@@ -128,12 +128,12 @@ a:hover, a:focus {
 }
 
 .btn-primary {
-  background-color:#70cbce;
+  background-color:#000;
   color: #ffffff;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
-  background-color: #8be2e5;
+  background-color: #959595;
   color: #ffffff;
   -webkit-transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
@@ -420,13 +420,13 @@ hr.line {
 }
 
 .fa-envelope-o {
-  color: #4ec3cd;
+  color: #0000;
   font-size: 22px;
   display: block;
   padding-top: 15px;
   width: 60px;
   height: 60px;
-  border: 2px solid #4ec3cd;
+  border: 2px solid #000;
   -moz-border-radius: 30px;
   -o-border-radius: 30px;
   -webkit-border-radius: 30px;
@@ -713,9 +713,30 @@ h1 {
   width: 450px;
   height:30px;
 
+ }
+}
+    
+    /* Landscape phone to portrait tablet */
+@media (max-width: 480px) { 
+
+.footer {
+   text-indent: 0px;
+    text-align: center;
+  width: 450px;
+  height:30px;
+
+}
+    
+    .footer2 {
+        padding-top: 20px;
+   text-indent: 0px;
+    text-align: center;
+  width: 450px;
+  height:50px;
+
 }
 
-
+}
 
 
 
