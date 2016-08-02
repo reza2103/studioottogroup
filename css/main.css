@@ -649,6 +649,21 @@ text-align: center;
 
 }
 
+
+p {
+   
+   font-size: 14px;
+  line-height: 22px;
+  color: #929496;
+  font-weight: 400;
+
+
+ }
+
+}
+
+
+
 @media (max-width: 480px) { 
 h1 { 
        margin-top: 300px;
@@ -660,6 +675,16 @@ h1 {
 
 }
 
+@media (max-width: 480px) { 
+h2 { 
+       
+     font-size: 27px;
+  line-height: 35px;
+  color: #ffffff;
+  font-weight: 600;
+  }
+
+}
 
 
 /* Landscape phones and down */
