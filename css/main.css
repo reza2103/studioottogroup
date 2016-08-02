@@ -74,9 +74,9 @@ p {
 
 
 .login {
-    
+    margin-bottom: -190px;
     font-size: 17px;
-  line-height: 22px;
+  line-height: 0px;
   color: #ffffff;
   font-weight: 400;
     
@@ -765,7 +765,7 @@ h2 {
 @media (max-width: 480px) { 
 
 .col-xs-6 {
-   
+   z-index: 9;
   text-indent: -50px;
     margin-top: 20px;;
     text-align: center;
