@@ -649,7 +649,7 @@ text-align: center;
 
 }
 
-
+@media (max-width: 480px) { 
 p {
    
    font-size: 14px;
