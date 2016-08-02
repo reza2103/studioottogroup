@@ -631,12 +631,20 @@ footer {
 /* Landscape phone to portrait tablet */
 @media (max-width: 480px) { 
 
-.lead { 
+.lead {
+   
  margin-bottom: -10px;
      font-size: 14px;
   line-height: 22px;
   color: #ffffff;
   font-weight: 400;
+    width: 300px;
+    margin: auto;
+text-align: center;
+
+
+
+
   }
 
 }
