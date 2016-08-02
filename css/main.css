@@ -44,11 +44,12 @@ h3 {
 }
 
 .lead {
-  font-size: 21px;
+  font-size: 18px;
   line-height: 26px;
   color: #ffffff;
   font-weight: 400;
 }
+
 
 p {
   font-size: 17px;
@@ -610,6 +611,31 @@ footer {
 /* ==========================================================================
    Mobile styles
    ========================================================================== */
+
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 480px) { 
+
+.lead { 
+     font-size: 14px;
+  line-height: 22px;
+  color: #ffffff;
+  font-weight: 400;
+  }
+
+}
+
+h1 { 
+     font-size: 27px;
+  line-height: 35px;
+  color: #ffffff;
+  font-weight: 600;
+  }
+
+}
+
+
+
 /* Landscape phones and down */
 @media (max-width: 480px) { 
 
@@ -668,6 +694,7 @@ footer {
 @media (min-width: 1200px) and (max-width: 3000px) {
 
 }   
+
 
 
 
